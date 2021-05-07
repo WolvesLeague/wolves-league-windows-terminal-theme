@@ -38,7 +38,7 @@ Find the `schemes` section and paste the content of `wolves-league-black.json` a
           "brightBlack": "#707070",
           "brightBlue": "#9AC5FB",
           "brightCyan": "#7CD4E5",
-          ...
+          "continues": "..."
       },
       {
           "name": "Wolves League Dark",
@@ -48,7 +48,7 @@ Find the `schemes` section and paste the content of `wolves-league-black.json` a
           "brightBlack": "#707070",
           "brightBlue": "#9AC5FB",
           "brightCyan": "#7CD4E5",
-          ...
+          "continues": "..."
       },
     ]
 ```
@@ -62,12 +62,7 @@ Find the `profiles` section and add a `colorScheme` property with the name of th
 ```json
 "profiles": {
     "defaults": {
-      "colorScheme": "Wolves League Dark", // This enables the theme. Use Wolves League Black or Wolves League Dark
-
-      // The following settings are optional, but I put them here in case you want to have the same result as the screenshots
-
-      "fontFace": "JetBrainsMono NF", // I'm using JetBrains Mono Nerd Font, you can use just JetBrains Mono, but the Nerd Font version has icons.
-      "fontSize": 13, // Recommended font size for JetBrains Mono
+      "colorScheme": "Wolves League Dark"
     },
   }
 ```
