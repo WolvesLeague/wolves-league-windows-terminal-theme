@@ -1,0 +1,23 @@
+{
+  "name": "Wolves League Dark",
+  "background": "#1D1F20",
+  "foreground": "#f5f3f4",
+  "cursorColor": "#FF5252",
+  "selectionBackground": "#400000",
+  "black": "#222425",
+  "blue": "#6CAEFF",
+  "brightBlack": "#707070",
+  "brightBlue": "#FF5252",
+  "brightCyan": "#7CD4E5",
+  "brightGreen": "#6DDeB7",
+  "brightPurple": "#C287E8",
+  "brightRed": "#FF0000",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#EDC891",
+  "cyan": "#3FC4DE",
+  "green": "#29D398",
+  "purple": "#FF5252",
+  "red": "#FF5252",
+  "white": "#F5F3F4",
+  "yellow": "#E9B360"
+}
